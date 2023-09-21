@@ -1,0 +1,2 @@
+-- How many movie studios are involved by name & location
+-- THIS INFORMATION IS NOT LOCATED IN THE DB
