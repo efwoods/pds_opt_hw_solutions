@@ -28,7 +28,7 @@
 21. [x] How far does Sean Connery’s movie list go back where his movie rating was above 5.0 ? TODO
 22. [x] What is the highest rating received by a movie?
 23. [x] Which movies have both, dwayne johnson and kevin hart?
-24. [x] Which movies have the same director and actor?👈
+24. [x] Which movies have the same director and actor?
 25. [x] What is the average movie rating for a each star
 26. [x] What is the highest rated movie?
 27. [x] Which directors did Steve Carell work with? (Steve Carrel is not found in the db)
